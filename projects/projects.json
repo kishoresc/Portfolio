@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Adventure Awaits",
+    "desc": "On my image slider webpage, clicking on a message will display a welcome quote.",
+    "image": "Adventure Awaits",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/kishoresc/HTML-CSS-JS/tree/main/Adventures%20Await"
+    }
+  },
+  {
+    "name": "Feedback Form",
+    "desc": "It's a feedback form interface.",
+    "image": "Feedback Form",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/kishoresc/HTML-CSS-JS/tree/main/Feedback%20Form"
+    }
+  },
+  {
+    "name": "Photo Info Popup",
+    "desc": "On my webpage, clicking the cricketer's image will display their details.",
+    "image": "Photo Info Popup",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/kishoresc/HTML-CSS-JS/tree/main/Photo%20Info%20Popup"
+    }
+  },
+  {
+    "name": "Revealing Navigation",
+    "desc": "Clicking the menu button will toggle the visibility of the navigation buttons.",
+    "image": "Revealing Navigation",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/kishoresc/HTML-CSS-JS/tree/main/Revealing%20Navigation"
+    }
+  },
+  {
+    "name": "Slide-Out Menu Navigation",
+    "desc": "- Clicking the menu button will show the side navigation. Selecting Birthday Wishes will trigger an alert with a birthday quote.",
+    "image": "Slide-Out Menu Navigation",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/kishoresc/HTML-CSS-JS/tree/main/Slide-Out%20Menu%20Navigation"
+    }
+  },
+  {
+    "name": "Hospital MERN",
+    "desc": "Patient Appointment Booking System. Patient can book the particular doctors if the appointment was booked, confirmation message will be sent to reg. mobile number.",
+    "image": "Hospital MERN",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/kishoresc/MERN-stack"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "Portfolio Website",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+]
